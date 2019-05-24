@@ -30,6 +30,7 @@
 }
 .heroes .text {
   position: relative;
+  color: blue;
   top: -3px;
 }
 .heroes .badge {
@@ -45,4 +46,10 @@
   height: 1.8em;
   margin-right: .8em;
   border-radius: 4px 0 0 4px;
+}
+
+.description{
+  color: blue;
+  margin-right: 1000px;
+  background-color: aquamarine;
 }
