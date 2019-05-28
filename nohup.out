@@ -1,0 +1,25 @@
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+[34mi[39m [90m｢wdm｣[39m: wait until bundle finished: /dashboard
+
+[0mDate: [1m[37m2019-05-28T20:07:11.939Z[39m[22m
+Hash: [1m[37m46cb5fe232dfd3c8c2e5[39m[22m
+Time: [1m[37m8479[39m[22mms
+chunk {[1m[33mes2015-polyfills[39m[22m} [1m[32mes2015-polyfills.js, es2015-polyfills.js.map[39m[22m (es2015-polyfills) 285 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m
+chunk {[1m[33mmain[39m[22m} [1m[32mmain.js, main.js.map[39m[22m (main) 50.7 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m
+chunk {[1m[33mpolyfills[39m[22m} [1m[32mpolyfills.js, polyfills.js.map[39m[22m (polyfills) 236 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m
+chunk {[1m[33mruntime[39m[22m} [1m[32mruntime.js, runtime.js.map[39m[22m (runtime) 6.08 kB [1m[33m[entry][39m[22m[1m[32m [rendered][39m[22m
+chunk {[1m[33mstyles[39m[22m} [1m[32mstyles.js, styles.js.map[39m[22m (styles) 16.3 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m
+chunk {[1m[33mvendor[39m[22m} [1m[32mvendor.js, vendor.js.map[39m[22m (vendor) 4.2 MB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+[34mi[39m [90m｢wdm｣[39m: Compiled successfully.
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+
+[0mDate: [1m[37m2019-05-28T20:07:50.184Z[39m[22m
+Hash: [1m[37m46cb5fe232dfd3c8c2e5[39m[22m
+Time: [1m[37m7825[39m[22mms
+chunk {[1m[33mes2015-polyfills[39m[22m} [1m[32mes2015-polyfills.js, es2015-polyfills.js.map[39m[22m (es2015-polyfills) 285 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m
+chunk {[1m[33mmain[39m[22m} [1m[32mmain.js, main.js.map[39m[22m (main) 50.7 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m
+chunk {[1m[33mpolyfills[39m[22m} [1m[32mpolyfills.js, polyfills.js.map[39m[22m (polyfills) 236 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m
+chunk {[1m[33mruntime[39m[22m} [1m[32mruntime.js, runtime.js.map[39m[22m (runtime) 6.08 kB [1m[33m[entry][39m[22m[1m[32m [rendered][39m[22m
+chunk {[1m[33mstyles[39m[22m} [1m[32mstyles.js, styles.js.map[39m[22m (styles) 16.3 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m
+chunk {[1m[33mvendor[39m[22m} [1m[32mvendor.js, vendor.js.map[39m[22m (vendor) 4.2 MB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+[34mi[39m [90m｢wdm｣[39m: Compiled successfully.

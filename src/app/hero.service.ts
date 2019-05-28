@@ -40,7 +40,7 @@ export class HeroService {
       console.error(error); // log to console instead
 
      // TODO: better job of transforming error for user consumption
-      this.log(`${operation} failed: ${error.message}`); 
+      this.log(`${operation} failed: ${error.message}`);
 
      // Let the app keep running by returning an empty result.
       return of(result as T);
@@ -72,7 +72,7 @@ export class HeroService {
       catchError(this.handleError<Hero>('deleteHero'))
     );
   }
-  
+
   /* GET heroes whose name contains search term */
   searchHeroes(term: string): Observable<Hero[]> {
     if (!term.trim()) {
@@ -80,7 +80,7 @@ export class HeroService {
       return of([]);
     }
     return this.http.get<Hero[]>(`${this.heroesUrl}/?name=${term}`).pipe(
-      tap(_ => this.log(`found heroes matching "${term}"`)),
+      tap(_ => console.log(`found heroes matching "${term}"`)),
       catchError(this.handleError<Hero[]>('searchHeroes', []))
     );
   }
